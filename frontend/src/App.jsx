@@ -1,7 +1,7 @@
 import "./App.css";
-import Thumbnail1 from "/thumbnails/meeting.png";
+import Thumbnail1 from "/thumbnails/5.jpg";
 import Thumbnail2 from "/thumbnails/ai_doctor.gif";
-import Thumbnail3 from "/thumbnails/chat.jpg";
+import Thumbnail3 from "/thumbnails/7.jpg";
 import Thumbnail4 from "/thumbnails/doctor2.png";
 import Patient from "/thumbnails/patient.png";
 import Vedio from "/thumbnails/role3.mp4";
